@@ -1,0 +1,27 @@
+  .card-header-rose:not(.card-header-icon):not(.card-header-text){
+    background: -webkit-linear-gradient(330deg, #f1d032, #ff9800) !important;
+    background: -o-linear-gradient(330deg, #f1d032, #ff9800) !important;
+    background: linear-gradient(60deg, #f1d032, #ff9800) !important;
+  }
+
+  .btn.btn-rose.btn-link{
+    color: #fe9e06 !important;
+  }
+
+  .form-control, .is-focused .form-control {
+    background-image: -webkit-linear-gradient(bottom, #fd9f07 2px, rgba(156, 39, 176, 0) 2px), -webkit-linear-gradient(bottom, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px) !important;
+    background-image: -o-linear-gradient(bottom, #fd9f07 2px, rgba(156, 39, 176, 0) 2px), -o-linear-gradient(bottom, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px) !important;
+    background-image: linear-gradient(to top, #fd9f07 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px) !important;
+  }
+
+  .bx-a{
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0), 0 0 0 0 rgba(0, 0, 0, 0);
+  }
+
+  .as-a{
+    align-self: center;
+  }
+
+  .cp{
+    cursor: pointer;
+  }
